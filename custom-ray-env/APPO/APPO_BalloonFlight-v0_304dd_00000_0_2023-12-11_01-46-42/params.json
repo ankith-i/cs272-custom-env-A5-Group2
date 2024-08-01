@@ -1,0 +1,6 @@
+{
+  "env": "BalloonFlight-v0",
+  "framework": "tf",
+  "num_gpus": 0,
+  "num_workers": 1
+}
